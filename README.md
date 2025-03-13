@@ -11,7 +11,7 @@ This project utilise streamlit, selenium, beautifulsoup, langchain and ollama to
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/oanda_forex.git
+    git clone https://github.com/hyeen24/oanda_forex.git
     ```
 2. Navigate to the project directory:
     ```sh
