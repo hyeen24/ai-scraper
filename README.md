@@ -25,7 +25,7 @@ This project utilise streamlit, selenium, beautifulsoup, langchain and ollama to
 
 ## Configuration
 1. Create a configuration file `.env` in the root directory
-2. Download latest [Chromedriver.exe](https://googlechromelabs.github.io/chrome-for-testing/)
+2. Download latest [Chromedriver.exe](https://googlechromelabs.github.io/chrome-for-testing/) and place into project directory.
 3. Download [Ollama](https://ollama.com/) - You can pick any ollama model choose the model suitable for your computer. Running higher model will be slow if you have a weaker setup.
 
 ## Usage
